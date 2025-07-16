@@ -1,0 +1,16 @@
+
+
+
+No.	              Problem                              Concept
+
+
+1️⃣	    Find Largest Element in Array	            Basics, traversal
+2️⃣	    Second Largest Element	                    Logic building
+3️⃣	    Check if Array is Sorted                	Loops, conditionals
+4️⃣	    Remove Duplicates from Sorted Array	        Two-pointer
+5️⃣	    Left Rotate Array by One	                Rotation logic
+6️⃣	    Move All Zeros to End	                    Two-pointer
+7️⃣	    Union of Two Arrays	                        HashSet
+8️⃣	    Kadane’s Algorithm (Max Subarray Sum)	    Sliding window, greedy
+9️⃣	    Leaders in Array	                        Reverse loop
+🔟	   Minimum Number of Swaps to Sort	            Sorting, index mapping
