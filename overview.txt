@@ -1,0 +1,11 @@
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+
+Step 1. Learn the basics.
+    lec.2 - build-up logical thinking 
+        # patterns
+
+    Lec 3: Learn STL/Java-Collections or similar thing in your language
+        # java Collections
+    Lec 4: Know basic maths
+        # Count Digits
+    
